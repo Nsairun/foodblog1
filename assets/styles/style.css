@@ -1,16 +1,15 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 
 }
-
 .banner-text {
   display: flex;
   padding: "10px" "10px" "10px" "10px";
   margin-bottom: 60px;
   justify-content: space-between;
   color:rgb(20, 2, 2);
-  size: 12px;
+  size:12px;
   margin-left: 40px;
   margin-right: 40px;
 
@@ -23,9 +22,7 @@
   text-align: center;
 
 }
-
 /* Food Card */
-
 .foodsection {
   display: flex;
   justify-content: space-evenly;
@@ -34,14 +31,12 @@
   margin: auto;
 
 }
-
 .foodsection-card {
   flex-basis: 24%;
   text-align: center;
   margin: 5px;
 
 }
-
 .foodsection-image {
   width: 100%;
   height: 400px;
