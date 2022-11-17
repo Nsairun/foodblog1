@@ -24,14 +24,14 @@ Knowledge about:
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:Nsairun/Invitation.git` using your terminal.
-- Change to the project directory by entering: cd wedding in the terminal.
+- Clone this repository with `https://github.com/Nsairun/foodblog1.git` using your terminal.
+- Change to the project directory by entering: cd foodblog1 in the terminal.
 
 ## steps
 
-- $ git clone `git@github.com:Nsairun/Invitation.git`
-- $ `cd invitation`
-- $ `git checkout feature/invitation`
+- $ git clone `https://github.com/Nsairun/foodblog1.git`
+- $ `cd foodblog1`
+- $ `git checkout feature/footer`
 
 ## Start App
 
@@ -41,7 +41,7 @@ Knowledge about:
 
 **Nsairun**
 
-- GitHub: [@Nsairun](git@github.com:Nsairun/Invitation.git)
+- GitHub: [@Nsairun](https://github.com/Nsairun/foodblog1.git)
 
 ## License
 This project is [w3school](./LICENSE) licensed ...
