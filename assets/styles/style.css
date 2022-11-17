@@ -98,13 +98,13 @@
   margin-bottom: 5%;
 }
 
-.midbtn{
+.midbtn {
   text-align: center;
   border: none;
   border-radius: none;
 }
 
- /* --footer-- */
+/* --footer-- */
 
 footer {
   display: block;
@@ -174,7 +174,7 @@ footer {
   text-align: center;
   justify-content: center;
   height: 4vh;
-  }
+}
 
 .tags {
   display: flex;
@@ -223,7 +223,6 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-
   body {
     display: grid;
     grid-template-columns: 1fr;
