@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+
 body {
   font-family: Karma, sans-serif;
 }
@@ -258,23 +259,23 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-   * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-     }
-   .foodsection-card {
-        width: calc(100% - 40px);
-     }
+  * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+  }
+  .foodsection-card {
+     width: calc(100% - 40px);
+  }
 
-   .foodsection{
-        display: flex;
-        align-items: center;
-     }
+ .foodsection{
+     display: flex;
+     align-items: center;
+  }
 
-   .footr {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-     }
+ .footr {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+  }
 }
