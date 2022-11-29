@@ -8,7 +8,7 @@ body {
   font-family: Karma, sans-serif;
 }
 
-header{
+header {
   position: fixed;
   padding: "10px" "10px" "10px" "10px";
   justify-content: center;
@@ -201,10 +201,6 @@ footer {
   margin-bottom: 4%;
 }
 
-.foot3p {
-  margin-top: 5%;
-}
-
 .foot4 img {
   height: 8vh;
   margin-top: 4%;
@@ -225,7 +221,7 @@ footer {
   color: #fff;
   width: 4.5vw;
   text-align: center;
-  height:4vh;
+  height: 4vh;
   padding: 5px 15px;
   margin: 0;
   font-size: 12px;
@@ -246,7 +242,7 @@ footer {
   box-sizing: inherit;
   height: 4vh;
   width: 5;
-  padding:5px 15px;
+  padding: 5px 15px;
   text-align: center;
   font-size: 12px;
 }
@@ -293,8 +289,6 @@ footer {
     box-sizing: border-box;
   }
 
-
-
   .foodsection-card {
     width: calc(100% - 40px);
   }
@@ -329,5 +323,6 @@ footer {
   .foot4 img {
     height: 11vh;
     width: 12vw;
-}
+  }
+
 }
