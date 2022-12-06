@@ -15,7 +15,7 @@ header {
   margin: 0 auto;
   background-color: #fff;
   width: 100%;
-  margin-bottom: 5% ;
+  margin-bottom: 5%;
 }
 
 .menubtn img {
@@ -62,7 +62,6 @@ header {
   padding-bottom: 32px;
   font: karma, sans-serif;
   font-weight: lighter;
-  padding-top: 80px;
 }
 
 .foodsection-card {
@@ -155,9 +154,9 @@ header {
 /* --footer-- */
 
 footer {
+  margin: auto;
   margin-top: 10px;
   width: 90vw;
-  margin: auto;
 }
 
 .footr {
@@ -240,7 +239,7 @@ footer {
   color: #fff;
   height: fit-content;
   width: fit-content;
-  padding: 7px 15px; 
+  padding: 7px 15px;
 }
 
 .tags2 {
@@ -254,7 +253,6 @@ footer {
   font-size: xx-small;
 }
 
-
 @media screen and (max-width: 600px) {
   * {
     margin: 0;
@@ -266,11 +264,11 @@ footer {
     width: calc(100% - 40px);
   }
 
-  .header{
+  .header {
     margin: 0, auto;
   }
 
-  .banner-text{
+  .banner-text {
     width: 50%;
   }
 
@@ -316,7 +314,7 @@ footer {
     width: 12vw;
   }
 
-  .tags{
+  .tags {
     width: 100%;
     margin-top: 5%;
   }
